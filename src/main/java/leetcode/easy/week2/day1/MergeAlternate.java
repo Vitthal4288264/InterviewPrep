@@ -23,6 +23,7 @@ public class MergeAlternate {
                 sb.append(word2.charAt(i));
             }
         }
+
         return sb.toString();
     }
 }
